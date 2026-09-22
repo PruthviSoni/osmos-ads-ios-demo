@@ -321,3 +321,8 @@ Successful SDK event responses can be verified through the Xcode console during 
 ## License
 
 This project was created as an iOS development assignment demonstrating Osmos Ads SDK integration.
+
+
+## Demo Recording
+
+[Watch the Osmos Ads Demo] https://drive.google.com/file/d/1DSI4-e_d64iBtF0596A_MFqe-6JaR3nL/view?usp=sharing
