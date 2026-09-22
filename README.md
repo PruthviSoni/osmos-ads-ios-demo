@@ -325,4 +325,14 @@ This project was created as an iOS development assignment demonstrating Osmos Ad
 
 ## Demo Recording
 
-[Watch the Osmos Ads Demo] https://drive.google.com/file/d/1DSI4-e_d64iBtF0596A_MFqe-6JaR3nL/view?usp=sharing
+[Watch the Osmos Ads Demo](https://drive.google.com/file/d/1DSI4-e_d64iBtF0596A_MFqe-6JaR3nL/view?usp=sharing)
+
+The recording demonstrates:
+
+* Ad loading
+* Banner rendering
+* Impression tracking
+* Scrolling and visibility-based impressions
+* Click tracking
+* Destination URL handling
+* Error and retry handling
